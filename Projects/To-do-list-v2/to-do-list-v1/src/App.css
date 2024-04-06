@@ -1,0 +1,19 @@
+h1{
+  font-weight: 800;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+input{
+  width: 100%;
+}
+
+.item-container{
+  text-align: left;
+}
+.ys-row{
+  margin: 10px 5px;
+}
+.ys-button{
+min-width: 80px;
+}
