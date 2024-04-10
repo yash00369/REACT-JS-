@@ -1,3 +1,8 @@
 .ys-item{
   background-color:violet;
+  align-items: center;
+  margin: 2px;
+}
+.food-heading{
+  text-align: center;
 }
